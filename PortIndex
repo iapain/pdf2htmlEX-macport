@@ -1,0 +1,2 @@
+pdf2htmlEX 547
+variants {debug universal} depends_build port:cmake portdir textproc/pdf2htmlex depends_fetch bin:git:git-core description {A pdf to html converter} homepage http://coolwanglu.github.com/pdf2htmlEX epoch 0 platforms darwin depends_lib {port:pkgconfig port:poppler port:poppler-data port:fontforge} name pdf2htmlEX long_description {Convert PDF to HTML without losing format. Text is preserved as much as possible.} maintainers {Deepak Thukral <iapain@iapa.in>} license {GPL-2 & GPL-3 (Dual License)} categories textproc version lastest revision 0
