@@ -1,4 +1,12 @@
-pdf2htmlEX - Macport repo
+pdf2htmlEX is now available in standard macports
+==========================
+## How to install
+```
+port install pdf2htmlEX
+```
+
+
+pdf2htmlEX - Macport local repo
 ==========================
 ## How to install
 
